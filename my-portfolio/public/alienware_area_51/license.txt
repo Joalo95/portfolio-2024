@@ -1,0 +1,11 @@
+Model Information:
+* title:	alienware area 51
+* source:	https://sketchfab.com/3d-models/alienware-area-51-de8737dbd7c44769a21f1a964d5ca911
+* author:	santispinner (https://sketchfab.com/santispinner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "alienware area 51" (https://sketchfab.com/3d-models/alienware-area-51-de8737dbd7c44769a21f1a964d5ca911) by santispinner (https://sketchfab.com/santispinner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
